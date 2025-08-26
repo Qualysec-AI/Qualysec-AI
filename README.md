@@ -1,4 +1,4 @@
-# Qualysec AI  
+# Qualysec 
 
 **Qualysec** is a leading cybersecurity firm specializing in **penetration testing** and **risk assessment** across multiple platforms.  
 We help businesses proactively identify vulnerabilities, comply with industry standards, and defend against evolving cyber threats.  
