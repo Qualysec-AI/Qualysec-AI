@@ -102,5 +102,4 @@ No: 72, Ozone India, Service Rd, LRDE Layout, Doddanekundi, Bengaluru, India - 5
 ---
 
 
-### 📜 License  
-This repository is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.  
+ 
